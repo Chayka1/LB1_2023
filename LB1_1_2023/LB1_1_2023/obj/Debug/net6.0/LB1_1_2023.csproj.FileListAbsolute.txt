@@ -1,0 +1,15 @@
+C:\Users\Max\Desktop\C#\LB1_1_2023\LB1_1_2023\bin\Debug\net6.0\LB1_1_2023.exe
+C:\Users\Max\Desktop\C#\LB1_1_2023\LB1_1_2023\bin\Debug\net6.0\LB1_1_2023.deps.json
+C:\Users\Max\Desktop\C#\LB1_1_2023\LB1_1_2023\bin\Debug\net6.0\LB1_1_2023.runtimeconfig.json
+C:\Users\Max\Desktop\C#\LB1_1_2023\LB1_1_2023\bin\Debug\net6.0\LB1_1_2023.dll
+C:\Users\Max\Desktop\C#\LB1_1_2023\LB1_1_2023\bin\Debug\net6.0\LB1_1_2023.pdb
+C:\Users\Max\Desktop\C#\LB1_1_2023\LB1_1_2023\obj\Debug\net6.0\LB1_1_2023.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\C#\LB1_1_2023\LB1_1_2023\obj\Debug\net6.0\LB1_1_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Desktop\C#\LB1_1_2023\LB1_1_2023\obj\Debug\net6.0\LB1_1_2023.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\C#\LB1_1_2023\LB1_1_2023\obj\Debug\net6.0\LB1_1_2023.AssemblyInfo.cs
+C:\Users\Max\Desktop\C#\LB1_1_2023\LB1_1_2023\obj\Debug\net6.0\LB1_1_2023.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\C#\LB1_1_2023\LB1_1_2023\obj\Debug\net6.0\LB1_1_2023.dll
+C:\Users\Max\Desktop\C#\LB1_1_2023\LB1_1_2023\obj\Debug\net6.0\refint\LB1_1_2023.dll
+C:\Users\Max\Desktop\C#\LB1_1_2023\LB1_1_2023\obj\Debug\net6.0\LB1_1_2023.pdb
+C:\Users\Max\Desktop\C#\LB1_1_2023\LB1_1_2023\obj\Debug\net6.0\LB1_1_2023.genruntimeconfig.cache
+C:\Users\Max\Desktop\C#\LB1_1_2023\LB1_1_2023\obj\Debug\net6.0\ref\LB1_1_2023.dll
